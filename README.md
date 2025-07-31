@@ -28,5 +28,3 @@
 **Outcome**: Secure Grafana deployment accessible from private subnet with controlled internet connectivity
 
 ![Manual Deployment](https://github.com/user-attachments/assets/dd9bef27-0db5-4852-a40f-92103664182c)
-
----
